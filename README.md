@@ -1,4 +1,6 @@
-﻿# Introduction à l'apprentissage automatique
+![alt text](https://i0.wp.com/feminisminindia.com/wp-content/uploads/2020/07/brand-4266-blog-illustration-5-questions-about-the-future-of-ai-1120x545-@2x-final-1560x760-1.png?fit=1560%2C760&ssl=1)
+
+# Formation en Intelligence Artificielle
 
 ## Sommaire
 
